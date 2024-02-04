@@ -74,7 +74,7 @@ Combining all 3 rules together, we are searching for the entity matching the tri
 Then, the condition is checking if the result array is empty. If its not empty, it means that the user is related to the team, and the action will be allowed to trigger.
 
 ## Roles
-Port's catalog allows you to manually create entities, which you will leverage to create the Roles in your catalog. Adding Roles is as simple as creating a new Blueprint named Roles, and update the data model to include a relation from User to Role like so:
+Port allows you to manually create entities, which is how you will create roles in your catalogue. It's as simple as creating a new Blueprint named Roles, and update the data model to include a relation from User to Role like so:
 
 ![alt text](assets/image2.png)
 
