@@ -1,5 +1,5 @@
 # Port RBAC
-This repository is an example of how to manage RBAC at Port using entities.
+This repository will provide a short walkthrough on how to apply RBAC to Port's Actions.
 
 ## Prerequisits
 In order to manage RBAC as described below, you will need to create Port users and teams blueprints + entities in the catalog.
